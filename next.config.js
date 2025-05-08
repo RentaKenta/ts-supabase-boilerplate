@@ -8,10 +8,6 @@ const nextConfig = {
       "pbs.twimg.com",
       "images.unsplash.com",
       "logos-world.net",
-      "capgo.app",
-      "raw.githubusercontent.com",
-      "github.com",
-      "avatars.githubusercontent.com"
     ],
   },
 };
